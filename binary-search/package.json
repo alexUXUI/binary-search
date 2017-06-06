@@ -1,0 +1,21 @@
+{
+  "name": "binary-search",
+  "version": "0.0.1",
+  "description": "Binary Search in JavaScript",
+  "main": "binarySearch.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "binary",
+    "search",
+    "algorithm",
+    "computer",
+    "science"
+  ],
+  "author": "Alex Bennett <alexandergraybennett@gmail.com> (http://thedope.agency)",
+  "license": "MIT",
+  "dependencies": {
+    "jslitmus": "^0.1.0"
+  }
+}
